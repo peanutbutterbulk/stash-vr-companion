@@ -1,5 +1,5 @@
 FROM python:3.8-buster
-label org.opencontainers.image.source = "https://github.com/Tweeticoats/stash-vr-companion"
+label org.opencontainers.image.source = "https://github.com/peanutbutterbulk/stash-vr-companion"
 ENV PYTHONDONTWRITEBYTECODE 1
 ENV PYTHONUNBUFFERED 1
 ENV CACHE_DIR /cache/
